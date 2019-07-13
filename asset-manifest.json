@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/swn/static/css/main.55f588c1.chunk.css",
+    "main.css": "/swn/static/css/main.a50ae88f.chunk.css",
     "main.js": "/swn/static/js/main.ff591738.chunk.js",
     "main.js.map": "/swn/static/js/main.ff591738.chunk.js.map",
     "runtime~main.js": "/swn/static/js/runtime~main.04c42d69.js",
@@ -8,9 +8,9 @@
     "static/js/2.cf62bdb1.chunk.js": "/swn/static/js/2.cf62bdb1.chunk.js",
     "static/js/2.cf62bdb1.chunk.js.map": "/swn/static/js/2.cf62bdb1.chunk.js.map",
     "index.html": "/swn/index.html",
-    "precache-manifest.3a2cce103a404ba3f3526ec209396a50.js": "/swn/precache-manifest.3a2cce103a404ba3f3526ec209396a50.js",
+    "precache-manifest.11dd77d047451918e2c33d288d7a6787.js": "/swn/precache-manifest.11dd77d047451918e2c33d288d7a6787.js",
     "service-worker.js": "/swn/service-worker.js",
-    "static/css/main.55f588c1.chunk.css.map": "/swn/static/css/main.55f588c1.chunk.css.map",
+    "static/css/main.a50ae88f.chunk.css.map": "/swn/static/css/main.a50ae88f.chunk.css.map",
     "static/media/Home.module.css": "/swn/static/media/Reynisfjara.7bf5dcda.jpg"
   }
 }
