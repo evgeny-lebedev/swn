@@ -1,0 +1,52 @@
+.navigationMenu {
+    background-color: #2E3131;
+    width: 100%;
+    position: fixed;
+    top: -50px;
+    transition: ease-in-out all 300ms;
+    z-index: 3;
+}
+
+.navigationMenu .menu {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.navigationMenu li {
+    height: 50px;
+    list-style: none;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navigationMenu a,
+.navigationMenu .link{
+    width: 90px;
+    height: 30px;
+    box-sizing: border-box;
+    display: block;
+    color: #F5F5F5;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.navigationMenu a.active {
+    border-bottom: 2px solid #F5F5F5;
+}
+
+.link {
+    position: relative;
+}
+.navigationMenu .subMenu {
+    position: absolute;
+    width: 120px;
+    left: 50%;
+    top: 50px;
+    transform: translateX(-50%);
+    background-color: #2E3131;
+}

@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.headline {
+    width: 308px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 4px;
+    box-sizing: border-box;
+    border-bottom: 4px solid #2E3131;
+}

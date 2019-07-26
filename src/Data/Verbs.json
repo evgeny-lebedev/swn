@@ -1,0 +1,1022 @@
+[
+  {
+    "icelandic": "fara",
+    "english": [
+      "to go",
+      "to walk",
+      "to leave",
+      "to travel"
+    ],
+    "russian": [
+      "идти",
+      "уходить",
+      "путешествовать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "vita",
+    "english": [
+      "to know"
+    ],
+    "russian": [
+      "знать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "gera",
+    "english": [
+      "to do",
+      "to make",
+      "to build",
+      "to act"
+    ],
+    "russian": [
+      "делать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "breyta",
+    "english": [
+      "to change"
+    ],
+    "russian": [
+      "менять"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "leiða",
+    "english": [
+      "to lead"
+    ],
+    "russian": [
+      "руководить",
+      "вести"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "bíða",
+    "english": [
+      "to wait"
+    ],
+    "russian": [
+      "ждать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "skulu",
+    "english": [
+      "to must"
+    ],
+    "russian": [
+      "быть обязанным"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "ákveða",
+    "english": [
+      "to decide",
+      "to determine"
+    ],
+    "russian": [
+      "принимать решение",
+      "определять"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "geta",
+    "english": [
+      "to can",
+      "to be able"
+    ],
+    "russian": [
+      "мочь"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "ná",
+    "english": [
+      "to reach",
+      "to achieve"
+    ],
+    "russian": [
+      "достигать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "kalla",
+    "english": [
+      "to call"
+    ],
+    "russian": [
+      "звать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "ganga",
+    "english": [
+      "to walk"
+    ],
+    "russian": [
+      "идти"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "bera",
+    "english": [
+      "to carry"
+    ],
+    "russian": [
+      "нести"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "skilja",
+    "english": [
+      "to understand",
+      "to realize"
+    ],
+    "russian": [
+      "понимать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "liggja",
+    "english": [
+      "to lie"
+    ],
+    "russian": [
+      "лежать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "kaupa",
+    "english": [
+      "to buy"
+    ],
+    "russian": [
+      "покупать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "hugsa",
+    "english": [
+      "to think",
+      "to realize"
+    ],
+    "russian": [
+      "думать",
+      "осознавать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "hverfa",
+    "english": [
+      "to disappear",
+      "to vanish"
+    ],
+    "russian": [
+      "исчезать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "muna",
+    "english": [
+      "to remember"
+    ],
+    "russian": [
+      "помнить"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "lesa",
+    "english": [
+      "to read"
+    ],
+    "russian": [
+      "читать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "taka",
+    "english": [
+      "to take"
+    ],
+    "russian": [
+      "принимать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "brosa",
+    "english": [
+      "to smile"
+    ],
+    "russian": [
+      "улыбаться"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "halda",
+    "english": [
+      "to hold",
+      "to think"
+    ],
+    "russian": [
+      "держать",
+      "думать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "telja",
+    "english": [
+      "to count"
+    ],
+    "russian": [
+      "считать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "hljóta",
+    "english": [
+      "to have to"
+    ],
+    "russian": [
+      "быть обязанным"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "opna",
+    "english": [
+      "to open"
+    ],
+    "russian": [
+      "открывать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "horfa",
+    "english": [
+      "to watch",
+      "to look"
+    ],
+    "russian": [
+      "смотреть"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "falla",
+    "english": [
+      "to fall",
+      "to drop"
+    ],
+    "russian": [
+      "падать",
+      "ронять"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "sækja",
+    "english": [
+      "to retrieve",
+      "to fetch"
+    ],
+    "russian": [
+      "получать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "finna",
+    "english": [
+      "to find"
+    ],
+    "russian": [
+      "искать"
+    ],
+    "learned": true
+  },
+  {
+    "icelandic": "bæta",
+    "english": [
+      "to add",
+      "to repair"
+    ],
+    "russian": [
+      "добавлять",
+      "чинить"
+    ]
+  },
+  {
+    "icelandic": "standa",
+    "english": [
+      "to stand"
+    ],
+    "russian": [
+      "стоять"
+    ]
+  },
+  {
+    "icelandic": "ríða",
+    "english": [
+      "to ride"
+    ],
+    "russian": [
+      "ехать"
+    ]
+  },
+  {
+    "icelandic": "leggja",
+    "english": [
+      "to put",
+      "to lay"
+    ],
+    "russian": [
+      "класть"
+    ]
+  },
+  {
+    "icelandic": "búa",
+    "english": [
+      "to live"
+    ],
+    "russian": [
+      "проживать"
+    ]
+  },
+  {
+    "icelandic": "leita",
+    "english": [
+      "to search",
+      "to look for"
+    ],
+    "russian": [
+      "искать",
+      "высматривать"
+    ]
+  },
+  {
+    "icelandic": "þurfa",
+    "english": [
+      "to need"
+    ],
+    "russian": [
+      "нуждаться"
+    ]
+  },
+  {
+    "icelandic": "sofa",
+    "english": [
+      "to sleep"
+    ],
+    "russian": [
+      "спать"
+    ]
+  },
+  {
+    "icelandic": "birta",
+    "english": [
+      "to show",
+      "to appear"
+    ],
+    "russian": [
+      "показывать",
+      "появляться"
+    ]
+  },
+  {
+    "icelandic": "eiga",
+    "english": [
+      "to own",
+      "to have"
+    ],
+    "russian": [
+      "обладать"
+    ]
+  },
+  {
+    "icelandic": "svara",
+    "english": [
+      "to answer",
+      "to reply",
+      "to respond"
+    ],
+    "russian": [
+      "отвечать"
+    ]
+  },
+  {
+    "icelandic": "vera",
+    "english": [
+      "to be"
+    ],
+    "russian": [
+      "быть"
+    ]
+  },
+  {
+    "icelandic": "fá",
+    "english": [
+      "to receive",
+      "to get"
+    ],
+    "russian": [
+      "получать"
+    ]
+  },
+  {
+    "icelandic": "fela",
+    "english": [
+      "to hide"
+    ],
+    "russian": [
+      "прятать"
+    ]
+  },
+  {
+    "icelandic": "biðja",
+    "english": [
+      "to ask",
+      "to pray"
+    ],
+    "russian": [
+      "просить",
+      "молиться"
+    ]
+  },
+  {
+    "icelandic": "sýna",
+    "english": [
+      "to show"
+    ],
+    "russian": [
+      "показывать"
+    ]
+  },
+  {
+    "icelandic": "hlæja",
+    "english": [
+      "to laugh"
+    ],
+    "russian": [
+      "смеяться"
+    ]
+  },
+  {
+    "icelandic": "virða",
+    "english": [
+      "to respect"
+    ],
+    "russian": [
+      "уважать"
+    ]
+  },
+  {
+    "icelandic": "hafa",
+    "english": [
+      "to have"
+    ],
+    "russian": [
+      "иметь"
+    ]
+  },
+  {
+    "icelandic": "detta",
+    "english": [
+      "to drop",
+      "to fall"
+    ],
+    "russian": [
+      "ронять",
+      "падать"
+    ]
+  },
+  {
+    "icelandic": "heyra",
+    "english": [
+      "to hear",
+      "to listen"
+    ],
+    "russian": [
+      "слушать"
+    ]
+  },
+  {
+    "icelandic": "grípa",
+    "english": [
+      "to catch",
+      "to grab"
+    ],
+    "russian": [
+      "брать",
+      "хватать"
+    ]
+  },
+  {
+    "icelandic": "verða",
+    "english": [
+      "to become"
+    ],
+    "russian": [
+      "становиться"
+    ]
+  },
+  {
+    "icelandic": "byrja",
+    "english": [
+      "to begin",
+      "to start"
+    ],
+    "russian": [
+      "начинать"
+    ]
+  },
+  {
+    "icelandic": "renna",
+    "english": [
+      "to slide",
+      "to flow"
+    ],
+    "russian": [
+      "скользить",
+      "течь"
+    ]
+  },
+  {
+    "icelandic": "drekka",
+    "english": [
+      "to drink"
+    ],
+    "russian": [
+      "пить"
+    ]
+  },
+  {
+    "icelandic": "nota",
+    "english": [
+      "to use"
+    ],
+    "russian": [
+      "использовать"
+    ]
+  },
+  {
+    "icelandic": "þekkja",
+    "english": [
+      "to know",
+      "to recognize"
+    ],
+    "russian": [
+      "знать",
+      "узнавать кого-то"
+    ]
+  },
+  {
+    "icelandic": "draga",
+    "english": [
+      "to cut",
+      "to pull",
+      "to drag"
+    ],
+    "russian": [
+      "резать",
+      "тянуть"
+    ]
+  },
+  {
+    "icelandic": "fylgja",
+    "english": [
+      "to follow",
+      "to accompany"
+    ],
+    "russian": [
+      "следовать"
+    ]
+  },
+  {
+    "icelandic": "koma",
+    "english": [
+      "to come",
+      "to arrive"
+    ],
+    "russian": [
+      "приходить",
+      "прибывать"
+    ]
+  },
+  {
+    "icelandic": "sjá",
+    "english": [
+      "to see"
+    ],
+    "russian": [
+      "видеть"
+    ]
+  },
+  {
+    "icelandic": "mega",
+    "english": [
+      "to may",
+      "to can"
+    ],
+    "russian": [
+      "быть способным"
+    ]
+  },
+  {
+    "icelandic": "setja",
+    "english": [
+      "to set"
+    ],
+    "russian": [
+      "устанавливать"
+    ]
+  },
+  {
+    "icelandic": "hefja",
+    "english": [
+      "to lift",
+      "to raise"
+    ],
+    "russian": [
+      "подимать"
+    ]
+  },
+  {
+    "icelandic": "éta",
+    "english": [
+      "to eat"
+    ],
+    "russian": [
+      "есть"
+    ]
+  },
+  {
+    "icelandic": "láta",
+    "english": [
+      "to let",
+      "to allow"
+    ],
+    "russian": [
+      "позволять"
+    ]
+  },
+  {
+    "icelandic": "veita",
+    "english": [
+      "to award"
+    ],
+    "russian": [
+      "награждать"
+    ]
+  },
+  {
+    "icelandic": "flytja",
+    "english": [
+      "to move"
+    ],
+    "russian": [
+      "двигаться"
+    ]
+  },
+  {
+    "icelandic": "ræða",
+    "english": [
+      "to discuss"
+    ],
+    "russian": [
+      "обсуждать"
+    ]
+  },
+  {
+    "icelandic": "snúa",
+    "english": [
+      "to turn",
+      "to twist"
+    ],
+    "russian": [
+      "поворачивать"
+    ]
+  },
+  {
+    "icelandic": "líða",
+    "english": [
+      "to feel"
+    ],
+    "russian": [
+      "чувствовать"
+    ]
+  },
+  {
+    "icelandic": "skipta",
+    "english": [
+      "to exchange",
+      "to change"
+    ],
+    "russian": [
+      "разменивать",
+      "менять"
+    ]
+  },
+  {
+    "icelandic": "ljúka",
+    "english": [
+      "to finish"
+    ],
+    "russian": [
+      "заканчивать"
+    ]
+  },
+  {
+    "icelandic": "reka",
+    "english": [
+      "to fire"
+    ],
+    "russian": [
+      "гореть"
+    ]
+  },
+  {
+    "icelandic": "færa",
+    "english": [
+      "to move"
+    ],
+    "russian": [
+      "двигаться"
+    ]
+  },
+  {
+    "icelandic": "hljóða",
+    "english": [
+      "to scream"
+    ],
+    "russian": [
+      "кричать"
+    ]
+  },
+  {
+    "icelandic": "fljúga",
+    "english": [
+      "to fly"
+    ],
+    "russian": [
+      "летать"
+    ]
+  },
+  {
+    "icelandic": "reyna",
+    "english": [
+      "to try",
+      "to attempt"
+    ],
+    "russian": [
+      "пытаться"
+    ]
+  },
+  {
+    "icelandic": "minna",
+    "english": [
+      "to remind"
+    ],
+    "russian": [
+      "напоминать"
+    ]
+  },
+  {
+    "icelandic": "segja",
+    "english": [
+      "to say",
+      "to tell"
+    ],
+    "russian": [
+      "говорить"
+    ]
+  },
+  {
+    "icelandic": "lifa",
+    "english": [
+      "to live"
+    ],
+    "russian": [
+      "жить"
+    ]
+  },
+  {
+    "icelandic": "tala",
+    "english": [
+      "to talk"
+    ],
+    "russian": [
+      "говорить"
+    ]
+  },
+  {
+    "icelandic": "senda",
+    "english": [
+      "to send"
+    ],
+    "russian": [
+      "отправлять"
+    ]
+  },
+  {
+    "icelandic": "læra",
+    "english": [
+      "to learn",
+      "to study"
+    ],
+    "russian": [
+      "учиться",
+      "изучать"
+    ]
+  },
+  {
+    "icelandic": "nefna",
+    "english": [
+      "to name"
+    ],
+    "russian": [
+      "называть"
+    ]
+  },
+  {
+    "icelandic": "lýsa",
+    "english": [
+      "to illuminate",
+      "to light"
+    ],
+    "russian": [
+      "светиться"
+    ]
+  },
+  {
+    "icelandic": "heita",
+    "english": [
+      "to be called",
+      "to be named"
+    ],
+    "russian": [
+      "зваться",
+      "называться"
+    ]
+  },
+  {
+    "icelandic": "bjóða",
+    "english": [
+      "to invite",
+      "to offer",
+      "to ask"
+    ],
+    "russian": [
+      "приглашать",
+      "предлагать",
+      "спрашивать"
+    ]
+  },
+  {
+    "icelandic": "hlaupa",
+    "english": [
+      "to run"
+    ],
+    "russian": [
+      "бегать"
+    ]
+  },
+  {
+    "icelandic": "gefa",
+    "english": [
+      "to give"
+    ],
+    "russian": [
+      "давать"
+    ]
+  },
+  {
+    "icelandic": "ætla",
+    "english": [
+      "to intend"
+    ],
+    "russian": [
+      "намереваться"
+    ]
+  },
+  {
+    "icelandic": "kunna",
+    "english": [
+      "to know how to"
+    ],
+    "russian": [
+      "уметь"
+    ]
+  },
+  {
+    "icelandic": "skrifa",
+    "english": [
+      "to write",
+      "to type"
+    ],
+    "russian": [
+      "писать"
+    ]
+  },
+  {
+    "icelandic": "spyrja",
+    "english": [
+      "to ask"
+    ],
+    "russian": [
+      "спрашивать"
+    ]
+  },
+  {
+    "icelandic": "vilja",
+    "english": [
+      "to want"
+    ],
+    "russian": [
+      "хотеть"
+    ]
+  },
+  {
+    "icelandic": "vinna",
+    "english": [
+      "to work"
+    ],
+    "russian": [
+      "работать"
+    ]
+  },
+  {
+    "icelandic": "sitja",
+    "english": [
+      "to sit"
+    ],
+    "russian": [
+      "сидеть"
+    ]
+  },
+  {
+    "icelandic": "gleyma",
+    "english": [
+      "to forget"
+    ],
+    "russian": [
+      "забывать"
+    ]
+  },
+  {
+    "icelandic": "hætta",
+    "english": [
+      "to abandon",
+      "to stop"
+    ],
+    "russian": [
+      "отказываться",
+      "останавливаться"
+    ]
+  },
+  {
+    "icelandic": "kenna",
+    "english": [
+      "to teach"
+    ],
+    "russian": [
+      "учить"
+    ]
+  },
+  {
+    "icelandic": "hlusta",
+    "english": [
+      "to listen"
+    ],
+    "russian": [
+      "слушать"
+    ]
+  }
+]

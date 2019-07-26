@@ -1,0 +1,6 @@
+.home {
+    height: 100vh;
+    background-image: url('../../Assets/Images/Reynisfjara.jpg');
+    background-size: cover;
+    background-position: center;
+}

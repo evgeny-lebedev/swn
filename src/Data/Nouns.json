@@ -1,0 +1,1177 @@
+[
+  {
+    "icelandic": "vandamál",
+    "english": [
+      "problem"
+    ],
+    "russian": [
+      "проблема"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "stóll",
+    "english": [
+      "stool"
+    ],
+    "russian": [
+      "стул"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "skóli",
+    "english": [
+      "school"
+    ],
+    "russian": [
+      "школа"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "mjólk",
+    "english": [
+      "milk"
+    ],
+    "russian": [
+      "молоко"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "flaska",
+    "english": [
+      "bottle"
+    ],
+    "russian": [
+      "бутылка"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "líf",
+    "english": [
+      "life"
+    ],
+    "russian": [
+      "жизнь"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "íbúð",
+    "english": [
+      "flat",
+      "apartment"
+    ],
+    "russian": [
+      "квартира"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "sonur",
+    "english": [
+      "son"
+    ],
+    "russian": [
+      "сын"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "steinn",
+    "english": [
+      "stone"
+    ],
+    "russian": [
+      "камень"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "sími",
+    "english": [
+      "phone"
+    ],
+    "russian": [
+      "телефон"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "heimur",
+    "english": [
+      "world"
+    ],
+    "russian": [
+      "мир"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "tími",
+    "english": [
+      "time"
+    ],
+    "russian": [
+      "время"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "leið",
+    "english": [
+      "way"
+    ],
+    "russian": [
+      "путь"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "loft",
+    "english": [
+      "air"
+    ],
+    "russian": [
+      "воздух"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "leikur",
+    "english": [
+      "game"
+    ],
+    "russian": [
+      "игра"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "dauði",
+    "english": [
+      "death"
+    ],
+    "russian": [
+      "смерть"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "ár",
+    "english": [
+      "year"
+    ],
+    "russian": [
+      "год"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "stríð",
+    "english": [
+      "war"
+    ],
+    "russian": [
+      "война"
+    ],
+    "gender": 3,
+    "learned": false
+  },
+  {
+    "icelandic": "sekúnda",
+    "english": [
+      "second"
+    ],
+    "russian": [
+      "секунда"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "andlit",
+    "english": [
+      "face"
+    ],
+    "russian": [
+      "лицо"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "nafn",
+    "english": [
+      "name"
+    ],
+    "russian": [
+      "имя"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "hönd",
+    "english": [
+      "hand"
+    ],
+    "russian": [
+      "кисть"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "lygi",
+    "english": [
+      "lie"
+    ],
+    "russian": [
+      "ложь"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "morgunn",
+    "english": [
+      "morning"
+    ],
+    "russian": [
+      "утро"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "eiginkona",
+    "english": [
+      "wife"
+    ],
+    "russian": [
+      "жена"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "fótur ",
+    "english": [
+      "foot"
+    ],
+    "russian": [
+      "нога"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "himinn",
+    "english": [
+      "sky"
+    ],
+    "russian": [
+      "небо"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "mínúta",
+    "english": [
+      "minute"
+    ],
+    "russian": [
+      "минута"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "lest",
+    "english": [
+      "train"
+    ],
+    "russian": [
+      "поезд"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "dóttir",
+    "english": [
+      "daughter"
+    ],
+    "russian": [
+      "дочь"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "diskur",
+    "english": [
+      "plate",
+      "dish"
+    ],
+    "russian": [
+      "тарелка"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "faðir",
+    "english": [
+      "father"
+    ],
+    "russian": [
+      "отец"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "hjónaband",
+    "english": [
+      "marriage"
+    ],
+    "russian": [
+      "брак",
+      "союз"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "eldur",
+    "english": [
+      "fire"
+    ],
+    "russian": [
+      "огонь"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "nótt",
+    "english": [
+      "night"
+    ],
+    "russian": [
+      "ночь"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "frelsi",
+    "english": [
+      "freedom"
+    ],
+    "russian": [
+      "свобода"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "partur",
+    "english": [
+      "part"
+    ],
+    "russian": [
+      "часть"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "te",
+    "english": [
+      "tea"
+    ],
+    "russian": [
+      "чай"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "eiginmaður",
+    "english": [
+      "husband"
+    ],
+    "russian": [
+      "муж"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "heimili",
+    "english": [
+      "home"
+    ],
+    "russian": [
+      "дом"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "nemandi",
+    "english": [
+      "student"
+    ],
+    "russian": [
+      "студент"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "verk",
+    "english": [
+      "work"
+    ],
+    "russian": [
+      "работа"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "hatur",
+    "english": [
+      "hate"
+    ],
+    "russian": [
+      "ненависть"
+    ],
+    "gender": 3,
+    "learned": false
+  },
+  {
+    "icelandic": "nábúi",
+    "english": [
+      "neighbour"
+    ],
+    "russian": [
+      "сосед"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "hár",
+    "english": [
+      "hair"
+    ],
+    "russian": [
+      "волос"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "klukkustund",
+    "english": [
+      "hour"
+    ],
+    "russian": [
+      "час"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "hópur",
+    "english": [
+      "group"
+    ],
+    "russian": [
+      "группа"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "borð",
+    "english": [
+      "table"
+    ],
+    "russian": [
+      "стол"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "reiðhjól",
+    "english": [
+      "bicycle"
+    ],
+    "russian": [
+      "велосипед"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "fiskur",
+    "english": [
+      "fish"
+    ],
+    "russian": [
+      "рыба"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "sannleikur",
+    "english": [
+      "truth"
+    ],
+    "russian": [
+      "правда"
+    ],
+    "gender": 1,
+    "learned": false
+  },
+  {
+    "icelandic": "gaffall",
+    "english": [
+      "fork"
+    ],
+    "russian": [
+      "вилка"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "gata",
+    "english": [
+      "street"
+    ],
+    "russian": [
+      "улица"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "líkami",
+    "english": [
+      "body"
+    ],
+    "russian": [
+      "тело"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "flugvél",
+    "english": [
+      "plain"
+    ],
+    "russian": [
+      "самолет"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "skeið",
+    "english": [
+      "spoon"
+    ],
+    "russian": [
+      "ложка"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "peningur",
+    "english": [
+      "money"
+    ],
+    "russian": [
+      "деньги"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "ský",
+    "english": [
+      "cloud"
+    ],
+    "russian": [
+      "облако"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "barn",
+    "english": [
+      "child"
+    ],
+    "russian": [
+      "ребенок"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "kaffi",
+    "english": [
+      "coffee"
+    ],
+    "russian": [
+      "кофе"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "dagur",
+    "english": [
+      "day"
+    ],
+    "russian": [
+      "день"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "vika",
+    "english": [
+      "week"
+    ],
+    "russian": [
+      "неделя"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "saga",
+    "english": [
+      "story"
+    ],
+    "russian": [
+      "история"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "staður",
+    "english": [
+      "place"
+    ],
+    "russian": [
+      "место"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "hlutur",
+    "english": [
+      "thing"
+    ],
+    "russian": [
+      "вещь"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "aldur",
+    "english": [
+      "age"
+    ],
+    "russian": [
+      "возраст"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "dýr",
+    "english": [
+      "animal"
+    ],
+    "russian": [
+      "животное"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "kjöt",
+    "english": [
+      "meat"
+    ],
+    "russian": [
+      "мясо"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "kona",
+    "english": [
+      "woman"
+    ],
+    "russian": [
+      "женщина"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "farmiði",
+    "english": [
+      "ticket"
+    ],
+    "russian": [
+      "билет"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "haus",
+    "english": [
+      "head"
+    ],
+    "russian": [
+      "голова"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "jörð",
+    "english": [
+      "soil",
+      "ground"
+    ],
+    "russian": [
+      "почва",
+      "земля"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "auga",
+    "english": [
+      "eye"
+    ],
+    "russian": [
+      "глаз"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "hús",
+    "english": [
+      "house"
+    ],
+    "russian": [
+      "дом"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "eftirnafn",
+    "english": [
+      "surname"
+    ],
+    "russian": [
+      "фамилия"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "trú",
+    "english": [
+      "faith"
+    ],
+    "russian": [
+      "вера"
+    ],
+    "gender": 2,
+    "learned": false
+  },
+  {
+    "icelandic": "styrkur",
+    "english": [
+      "strength"
+    ],
+    "russian": [
+      "сила"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "spurning",
+    "english": [
+      "question"
+    ],
+    "russian": [
+      "вопрос"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "óvinur",
+    "english": [
+      "enemy"
+    ],
+    "russian": [
+      "враг"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "fólk",
+    "english": [
+      "people"
+    ],
+    "russian": [
+      "люди"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "fjölskylda",
+    "english": [
+      "family"
+    ],
+    "russian": [
+      "семья"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "vatn",
+    "english": [
+      "water"
+    ],
+    "russian": [
+      "вода"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "safi",
+    "english": [
+      "juice"
+    ],
+    "russian": [
+      "сок"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "fugl",
+    "english": [
+      "bird"
+    ],
+    "russian": [
+      "птица"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "ást",
+    "english": [
+      "love"
+    ],
+    "russian": [
+      "любовь"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "friður",
+    "english": [
+      "peace"
+    ],
+    "russian": [
+      "мир"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "land",
+    "english": [
+      "land",
+      "country"
+    ],
+    "russian": [
+      "земля",
+      "страна"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "mánuður",
+    "english": [
+      "month"
+    ],
+    "russian": [
+      "месяц"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "hnífur",
+    "english": [
+      "knife"
+    ],
+    "russian": [
+      "нож"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "matur",
+    "english": [
+      "food"
+    ],
+    "russian": [
+      "еда"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "borg",
+    "english": [
+      "city"
+    ],
+    "russian": [
+      "город"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "handleggur",
+    "english": [
+      "arm"
+    ],
+    "russian": [
+      "рука"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "bók",
+    "english": [
+      "book"
+    ],
+    "russian": [
+      "книга"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "kollur",
+    "english": [
+      "stool"
+    ],
+    "russian": [
+      "стул"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "áfengi",
+    "english": [
+      "alcohol"
+    ],
+    "russian": [
+      "алкоголь"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "von",
+    "english": [
+      "hope"
+    ],
+    "russian": [
+      "надежда"
+    ],
+    "gender": 2,
+    "learned": false
+  },
+  {
+    "icelandic": "herbergi",
+    "english": [
+      "room"
+    ],
+    "russian": [
+      "комната"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "réttlæti",
+    "english": [
+      "justice"
+    ],
+    "russian": [
+      "справедливость"
+    ],
+    "gender": 3,
+    "learned": false
+  },
+  {
+    "icelandic": "vinur",
+    "english": [
+      "friend"
+    ],
+    "russian": [
+      "друг"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "mynt",
+    "english": [
+      "coin"
+    ],
+    "russian": [
+      "монета"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "móðir",
+    "english": [
+      "mother"
+    ],
+    "russian": [
+      "мать"
+    ],
+    "gender": 2,
+    "learned": true
+  },
+  {
+    "icelandic": "reiði",
+    "english": [
+      "anger"
+    ],
+    "russian": [
+      "злость",
+      "гнев"
+    ],
+    "gender": 3,
+    "learned": false
+  },
+  {
+    "icelandic": "kvöld",
+    "english": [
+      "evening"
+    ],
+    "russian": [
+      "вечер"
+    ],
+    "gender": 3,
+    "learned": true
+  },
+  {
+    "icelandic": "maður",
+    "english": [
+      "man"
+    ],
+    "russian": [
+      "мужчина",
+      "человек"
+    ],
+    "gender": 1,
+    "learned": true
+  },
+  {
+    "icelandic": "hræðsla",
+    "english": [
+      "fear"
+    ],
+    "russian": [
+      "страх"
+    ],
+    "gender": 2,
+    "learned": false
+  },
+  {
+    "icelandic": "bíll",
+    "english": [
+      "car"
+    ],
+    "russian": [
+      "автомобиль"
+    ],
+    "gender": 1,
+    "learned": true
+  }
+]
