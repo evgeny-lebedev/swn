@@ -331,7 +331,8 @@
     "russian": [
       "добавлять",
       "чинить"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "standa",
@@ -340,7 +341,8 @@
     ],
     "russian": [
       "стоять"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "ríða",
@@ -349,7 +351,8 @@
     ],
     "russian": [
       "ехать"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "leggja",
@@ -359,7 +362,8 @@
     ],
     "russian": [
       "класть"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "búa",
@@ -368,7 +372,8 @@
     ],
     "russian": [
       "проживать"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "leita",
@@ -379,7 +384,8 @@
     "russian": [
       "искать",
       "высматривать"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "þurfa",
@@ -388,7 +394,8 @@
     ],
     "russian": [
       "нуждаться"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "sofa",
@@ -397,7 +404,8 @@
     ],
     "russian": [
       "спать"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "birta",
@@ -408,7 +416,8 @@
     "russian": [
       "показывать",
       "появляться"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "eiga",
@@ -418,7 +427,8 @@
     ],
     "russian": [
       "обладать"
-    ]
+    ],
+    "learned": true
   },
   {
     "icelandic": "svara",

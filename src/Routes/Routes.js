@@ -8,6 +8,10 @@ import Verbs from "../Pages/Verbs/Verbs";
 import LearnVerbs from "../Pages/Verbs/LearnVerbs/LearnVerbs";
 import RepeatVerbs from "../Pages/Verbs/RepeatVerbs/RepeatVerbs";
 import AllVerbs from "../Pages/Verbs/AllVerbs/AllVerbs";
+import Adjectives from "../Pages/Adjectives/Adjectives";
+import LearnAdjectives from "../Pages/Adjectives/LearnAdjectives/LearnAdjectives";
+import RepeatAdjectives from "../Pages/Adjectives/RepeatAdjectives/RepeatAdjectives";
+import AllAdjectives from "../Pages/Adjectives/AllAdjectives/AllAdjectives";
 
 const notFoundPath = '*';
 const homePath = '/';
@@ -19,6 +23,10 @@ const verbsPath = '/verbs';
 const learnVerbsPath = `${verbsPath}/learn`;
 const repeatVerbsPath = `${verbsPath}/repeat`;
 const allVerbsPath = `${verbsPath}/all`;
+const adjectivesPath = '/adjectives';
+const learnAdjectivesPath = `${adjectivesPath}/learn`;
+const repeatAdjectivesPath = `${adjectivesPath}/repeat`;
+const allAdjectivesPath = `${adjectivesPath}/all`;
 
 export const routes = {
     noteFound: {
@@ -62,6 +70,24 @@ export const routes = {
             all: {
                 path: allVerbsPath,
                 component: AllVerbs
+            },
+        }
+    },
+    adjectives: {
+        path: adjectivesPath,
+        component: Adjectives,
+        routes: {
+            learn: {
+                path: learnAdjectivesPath,
+                component: LearnAdjectives
+            },
+            repeat: {
+                path: repeatAdjectivesPath,
+                component: RepeatAdjectives
+            },
+            all: {
+                path: allAdjectivesPath,
+                component: AllAdjectives
             },
         }
     }

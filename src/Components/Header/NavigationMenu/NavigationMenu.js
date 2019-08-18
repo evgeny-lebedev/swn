@@ -38,6 +38,8 @@ function NavigationMenu() {
                 </li>
                 <li>
                     <VerbsLink/>
+                </li><li>
+                    <AdjectivesLink/>
                 </li>
             </ul>
         </nav>
@@ -129,6 +131,50 @@ function VerbsLink() {
             }
 
         </div>
+    )
+}
+
+function AdjectivesLink() {
+
+    const [ref] = useOnClickOutside(() => toggleExpanded(false));
+    const [expanded, toggleExpanded] = useState(false);
+    const handleClick = () => toggleExpanded(!expanded);
+
+    return (
+      <div ref={ref}>
+          <div className={styles.link} onClick={handleClick}>
+              {words.adjectives}
+          </div>
+
+          {
+              expanded && (
+                <ul className={styles.subMenu}>
+                    <li>
+                        <NavLink activeClassName={styles.active}
+                                 to={routes.adjectives.routes.learn.path}
+                                 onClick={handleClick}>
+                            {words.learn}
+                        </NavLink>
+                    </li>
+                    <li>
+                        <NavLink activeClassName={styles.active}
+                                 to={routes.adjectives.routes.repeat.path}
+                                 onClick={handleClick}>
+                            {words.repeat}
+                        </NavLink>
+                    </li>
+                    <li>
+                        <NavLink activeClassName={styles.active}
+                                 to={routes.adjectives.routes.all.path}
+                                 onClick={handleClick}>
+                            {words.all}
+                        </NavLink>
+                    </li>
+                </ul>
+              )
+          }
+
+      </div>
     )
 }
 

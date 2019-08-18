@@ -17,6 +17,10 @@ function Main() {
                 <Route exact path={routes.verbs.routes.learn.path} component={routes.verbs.routes.learn.component}/>
                 <Route exact path={routes.verbs.routes.repeat.path} component={routes.verbs.routes.repeat.component}/>
                 <Route exact path={routes.verbs.routes.all.path} component={routes.verbs.routes.all.component}/>
+                <Route exact path={routes.adjectives.path} component={routes.adjectives.component}/>
+                <Route exact path={routes.adjectives.routes.learn.path} component={routes.adjectives.routes.learn.component}/>
+                <Route exact path={routes.adjectives.routes.repeat.path} component={routes.adjectives.routes.repeat.component}/>
+                <Route exact path={routes.adjectives.routes.all.path} component={routes.adjectives.routes.all.component}/>
                 <Route exact path={routes.noteFound.path} component={routes.noteFound.component}/>
             </Switch>
         </div>

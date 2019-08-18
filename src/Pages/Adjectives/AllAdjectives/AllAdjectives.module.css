@@ -1,0 +1,9 @@
+.allAdjectives {
+}
+
+
+@media only screen and (min-width: 800px) {
+    .listsContainer {
+        display: flex;
+    }
+}

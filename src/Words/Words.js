@@ -2,6 +2,7 @@ export const words = {
     home: 'Heim',
     verbs: 'Sagnorð',
     nouns: 'Nafnorð',
+    adjectives: 'Lýsingarorð',
     male: 'Karlkyn',
     female: 'Kvenkyn',
     neuter: 'Hvorugkyn',
